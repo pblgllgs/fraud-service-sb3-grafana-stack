@@ -1,7 +1,0 @@
-com\programming\techie\fraudetect\entity\FraudRecord.class
-com\programming\techie\fraudetect\config\ObservationConfig.class
-com\programming\techie\fraudetect\controller\FraudDetectionController.class
-com\programming\techie\fraudetect\service\FraudDetectionService.class
-com\programming\techie\fraudetect\FraudDetectionServiceApplication.class
-com\programming\techie\fraudetect\repository\FraudRecordRepository.class
-com\programming\techie\fraudetect\entity\LoanStatus.class
