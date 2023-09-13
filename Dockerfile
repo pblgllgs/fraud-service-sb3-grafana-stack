@@ -23,5 +23,5 @@ COPY --from=build /project/target/fraud-detection-service-1.0.0.jar /app/fraud-d
 WORKDIR /app
 RUN chown -R javauser:javauser /app
 USER javauser
-EXPOSE 8080
+EXPOSE 8081
 CMD "dumb-init" "java" "-jar" "fraud-detection-service-1.0.0.jar"
