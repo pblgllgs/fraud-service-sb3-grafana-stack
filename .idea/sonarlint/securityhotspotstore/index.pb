@@ -9,3 +9,5 @@ Usrc/main/java/com/programming/techie/fraudetect/repository/FraudRecordRepositor
 :
 
 Dockerfile,6\6\6651ddff6eb82c840ced7c1dddee15c6e1913dd4
+}
+Msrc/main/java/com/programming/techie/fraudetect/config/ObservationConfig.java,8\9\8916a6e3557acda54778bddd1c66947f6dcb4025
